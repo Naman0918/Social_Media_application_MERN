@@ -1,0 +1,7 @@
+npm i
+cd Frontend
+npm i
+npm run build
+cd ..
+npm i
+npm start
